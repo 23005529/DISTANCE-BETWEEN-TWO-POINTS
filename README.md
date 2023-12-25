@@ -14,10 +14,10 @@ Calculate the distance between the points and print the result.
 ### Step 5:
 End.
 ## PROGRAM:
-### Program to find the distance between two points.
-### Developed by: ALIYA SHEEMA
-### RegisterNumber: 23005529
 ``````
+#Program to find the distance between two points.
+#Developed by: ALIYA SHEEMA
+#RegisterNumber: 23005529
 x_2=4
 x_1=10
 y_2=2
